@@ -142,9 +142,9 @@ local IndirectMap = {
         [233363] = "INVTYPE_CHEST",     -- Carapace of the Old God
         [233364] = "INVTYPE_CHEST",     -- Skin of the Old God
         [21221]  = "INVTYPE_NECK",      -- Eye of C'thun
-        --- AGNI ADDITIONS ---
+        --- AGNI ADDITIONS
         --- Mounts
-        --- Usable Outside
+        -- Usable Outside
         [233351] = "INVTYPE_NON_EQUIP", -- Light Green Qiraji Resonating Crystal
         [233352] = "INVTYPE_NON_EQUIP", -- Dark Blue Qiraji Resonating Crystal
         [233353] = "INVTYPE_NON_EQUIP", -- Light Blue Qiraji Resonating Crystal
@@ -152,7 +152,7 @@ local IndirectMap = {
         [235512] = "INVTYPE_NON_EQUIP", -- Flawless Green Qiraji Resonating Crystal
         [235513] = "INVTYPE_NON_EQUIP", -- Flawless Blue Qiraji Resonating Crystal
         [235514] = "INVTYPE_NON_EQUIP", -- Flawless Red Qiraji Resonating Crystal
-        --- Inside Only
+        -- Inside Only
         [21218] = "INVTYPE_NON_EQUIP",  -- Blue Qiraji Resonating Crystal
         [21324] = "INVTYPE_NON_EQUIP",  -- Yellow Qiraji Resonating Crystal
         [21323] = "INVTYPE_NON_EQUIP",  -- Green Qiraji Resonating Crystal
