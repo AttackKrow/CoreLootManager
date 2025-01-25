@@ -1,3 +1,11 @@
+# Core Loot Manager v5.4.4
+## Changes
+### ToC Overhaul
+Overhauled ToC in preparation of 11.1 changes
+# Core Loot Manager v5.4.3
+## Fixes
+### Tooltip
+Cataclysm tooltips should now be working again.
 # Core Loot Manager v5.4.2
 ## Fixes
 ### Classic Era
