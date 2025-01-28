@@ -188,10 +188,10 @@ local IndirectMap = {
         [236350] = "INVTYPE_TRINKET",   -- The Phylactery of Kel'Thuzad
         --- AGNI ADDITIONS
         --- Mounts
-        --[236662] = "INVTYPE_NON_EQUIP", -- Reins of War
-        --[236663] = "INVTYPE_NON_EQUIP", -- Reins of Conquest
-        --[236664] = "INVTYPE_NON_EQUIP", -- Reins of Death
-        --[236665] = "INVTYPE_NON_EQUIP", -- Reins of Famine
+        [236662] = "INVTYPE_NON_EQUIP", -- Reins of War
+        [236663] = "INVTYPE_NON_EQUIP", -- Reins of Conquest
+        [236664] = "INVTYPE_NON_EQUIP", -- Reins of Death
+        [236665] = "INVTYPE_NON_EQUIP", -- Reins of Famine
         --- Enchants
         [236326] = "INVTYPE_NON_EQUIP", -- Might of the Scourge
         [236324] = "INVTYPE_NON_EQUIP", -- Power of the Scourge
@@ -421,15 +421,15 @@ local IndirectMap = {
         [236350] = 90,  -- The Phylactery of Kel'Thuzad
         --- AGNI ADDITIONS
         --- Mounts
-        --[236662] = 0,   -- Reins of War
-        --[236663] = 0,   -- Reins of Conquest
-        --[236664] = 0,   -- Reins of Death
-        --[236665] = 0,   -- Reins of Famine
+        [236662] = 71.717,   -- Reins of War
+        [236663] = 71.717,   -- Reins of Conquest
+        [236664] = 71.717,   -- Reins of Death
+        [236665] = 71.717,   -- Reins of Famine
         --- Enchants
-        [236326] = 20,  -- Might of the Scourge
-        [236324] = 20,  -- Power of the Scourge
-        [236323] = 20,  -- Resilience of the Scourge
-        [236325] = 20,  -- Fortitude of the Scourge
+        [236326] = 71.717,  -- Might of the Scourge
+        [236324] = 71.717,  -- Power of the Scourge
+        [236323] = 71.717,  -- Resilience of the Scourge
+        [236325] = 71.717,  -- Fortitude of the Scourge
         --- Cataclysm P1 Normal ---
         [63682] = 359, -- Helm of the Forlorn Vanquisher
         [63684] = 359, -- Helm of the Forlorn Protector
