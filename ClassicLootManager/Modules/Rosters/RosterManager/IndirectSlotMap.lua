@@ -142,6 +142,23 @@ local IndirectMap = {
         [233363] = "INVTYPE_CHEST",     -- Carapace of the Old God
         [233364] = "INVTYPE_CHEST",     -- Skin of the Old God
         [21221]  = "INVTYPE_NECK",      -- Eye of C'thun
+        --- AGNI ADDITIONS
+        --- Mounts
+        -- Usable Outside
+        [233351] = "INVTYPE_NON_EQUIP", -- Light Green Qiraji Resonating Crystal
+        [233352] = "INVTYPE_NON_EQUIP", -- Dark Blue Qiraji Resonating Crystal
+        [233353] = "INVTYPE_NON_EQUIP", -- Light Blue Qiraji Resonating Crystal
+        [235511] = "INVTYPE_NON_EQUIP", -- Flawless Yellow Qiraji Resonating Crystal
+        [235512] = "INVTYPE_NON_EQUIP", -- Flawless Green Qiraji Resonating Crystal
+        [235513] = "INVTYPE_NON_EQUIP", -- Flawless Blue Qiraji Resonating Crystal
+        [235514] = "INVTYPE_NON_EQUIP", -- Flawless Red Qiraji Resonating Crystal
+        -- Inside Only
+        [21218] = "INVTYPE_NON_EQUIP",  -- Blue Qiraji Resonating Crystal
+        [21324] = "INVTYPE_NON_EQUIP",  -- Yellow Qiraji Resonating Crystal
+        [21323] = "INVTYPE_NON_EQUIP",  -- Green Qiraji Resonating Crystal
+        [21321] = "INVTYPE_NON_EQUIP",  -- Red Qiraji Resonating Crystal
+        --- Cosmetics
+        [234614] = "INVTYPE_NON_EQUIP", -- Void-Touched Emblem
         --- SOD P7 ---
         [237381] = "INVTYPE_FINGER",    -- Desecrated Ring
         [236241] = "INVTYPE_HEAD",      -- Desecrated Circlet
@@ -347,6 +364,23 @@ local IndirectMap = {
         [233363] = 88,  -- Carapace of the Old God
         [233364] = 88,  -- Skin of the Old God
         [21221]  = 88,  -- Eye of C'thun
+        --- AGNI ADDITIONS
+        --- Mounts
+        -- Usable Outside
+        [233351] = 71.717,  -- Light Green Qiraji Resonating Crystal
+        [233352] = 71.717,  -- Dark Blue Qiraji Resonating Crystal
+        [233353] = 71.717,  -- Light Blue Qiraji Resonating Crystal
+        [235511] = 71.717,  -- Flawless Yellow Qiraji Resonating Crystal
+        [235512] = 71.717,  -- Flawless Green Qiraji Resonating Crystal
+        [235513] = 71.717,  -- Flawless Blue Qiraji Resonating Crystal
+        [235514] = 71.717,  -- Flawless Red Qiraji Resonating Crystal
+        -- Inside Only
+        [21218] = 81.31,  -- Blue Qiraji Resonating Crystal
+        [21324] = 81.31,  -- Yellow Qiraji Resonating Crystal
+        [21323] = 81.31,  -- Green Qiraji Resonating Crystal
+        [21321] = 81.31,  -- Red Qiraji Resonating Crystal
+        --- Cosmetics
+        [234614] = 81.31,    -- Void-Touched Emblem
         --- SOD P7 ---
         [237381] = 92,  -- Desecrated Ring
         [236241] = 88,  -- Desecrated Circlet
