@@ -421,15 +421,15 @@ local IndirectMap = {
         [236350] = 90,  -- The Phylactery of Kel'Thuzad
         --- AGNI ADDITIONS
         --- Mounts
-        [236662] = 71.717,   -- Reins of War
-        [236663] = 71.717,   -- Reins of Conquest
-        [236664] = 71.717,   -- Reins of Death
-        [236665] = 71.717,   -- Reins of Famine
+        [236662] = 55.31,   -- Reins of War
+        [236663] = 55.31,   -- Reins of Conquest
+        [236664] = 55.31,   -- Reins of Death
+        [236665] = 55.31,   -- Reins of Famine
         --- Enchants
-        [236326] = 71.717,  -- Might of the Scourge
-        [236324] = 71.717,  -- Power of the Scourge
-        [236323] = 71.717,  -- Resilience of the Scourge
-        [236325] = 71.717,  -- Fortitude of the Scourge
+        [236326] = 55.31,  -- Might of the Scourge
+        [236324] = 55.31,  -- Power of the Scourge
+        [236323] = 55.31,  -- Resilience of the Scourge
+        [236325] = 55.31,  -- Fortitude of the Scourge
         --- Cataclysm P1 Normal ---
         [63682] = 359, -- Helm of the Forlorn Vanquisher
         [63684] = 359, -- Helm of the Forlorn Protector
