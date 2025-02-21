@@ -1,6 +1,37 @@
 local  _, CLM = ...
 CLM.ChangelogData = {
     {
+        version = "v5.5.1",
+        data = {
+            {
+                name = "Changes",
+                data = {
+                    { header = "Gargul Integration", body = "Added Option to configure Soft Reserved items handling" },
+                    { header = "Migration", body = "QDKP V2 Migration support enabled" },
+                },
+            },
+        },
+    },
+    {
+        version = "v5.5.0",
+        data = {
+            {
+                name = "Features",
+                data = {
+                    { header = "Bidding on unusable items", body = "You will now be prompted to confirm when bidding on unusable items." },
+                    { header = "Season of Discovery Phase 7", body = "Season of Discovery Phase 7 items added by @AttackKrow. Boss kill awards support added also." },
+                },
+            },
+            {
+                name = "Fixes",
+                data = {
+                    { header = "Cata usability check", body = "In Cata items will now be properly mark as unusable when auctioned." },
+                    { header = "Classic Fresh / Era / Hardcore guns and crossbows", body = "Guns and Crossbows will now properly take values from Ranged and not Wands." },
+                },
+            },
+        },
+    },
+    {
         version = "v5.4.3",
         data = {
             {

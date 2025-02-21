@@ -1,3 +1,20 @@
+# Core Loot Manager v5.5.1
+## Changes
+### Gargul Integration
+Added Option to configure Soft Reserved items handling
+### Migration
+QDKP V2 Migration support enabled
+# Core Loot Manager v5.5.0
+## Features
+### Bidding on unusable items
+You will now be prompted to confirm when bidding on unusable items.
+### Season of Discovery Phase 7
+Season of Discovery Phase 7 items added by @AttackKrow. Boss kill awards support added also.
+## Fixes
+### Cata usability check
+In Cata items will now be properly mark as unusable when auctioned.
+### Classic Fresh / Era / Hardcore guns and crossbows
+Guns and Crossbows will now properly take values from Ranged and not Wands.
 # Core Loot Manager v5.4.4
 ## Changes
 ### ToC Overhaul
