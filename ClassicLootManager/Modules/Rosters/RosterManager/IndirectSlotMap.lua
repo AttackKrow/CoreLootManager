@@ -194,6 +194,7 @@ local IndirectMap = {
         [239729] = "INVTYPE_HEAD",      -- Consecrated Headpiece
         [239722] = "INVTYPE_WRIST",     -- Consecrated Wristguards
         [239712] = "INVTYPE_SHOULDER",  -- Consecrated Shoulderpads
+        [239215] = "INVTYPE_TRINKET",   -- Charred Emblem
         --- Cataclysm P1 Normal ---
         [63682] = "INVTYPE_HEAD",       -- Helm of the Forlorn Vanquisher
         [63684] = "INVTYPE_HEAD",       -- Helm of the Forlorn Protector
@@ -424,6 +425,7 @@ local IndirectMap = {
         [239729] = 98,  -- Consecrated Headpiece
         [239722] = 98,  -- Consecrated Wristguards
         [239712] = 98,  -- Consecrated Shoulderpads
+        [239215] = 96,  -- Charred Emblem
         --- Cataclysm P1 Normal ---
         [63682] = 359, -- Helm of the Forlorn Vanquisher
         [63684] = 359, -- Helm of the Forlorn Protector
